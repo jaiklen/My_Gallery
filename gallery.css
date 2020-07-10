@@ -54,4 +54,5 @@ img{
 }
 .preview:hover{
  opacity: 0.8;
+border-color: rgb(87, 85, 230);
 }
